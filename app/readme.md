@@ -1,5 +1,4 @@
-##APLICACIÓN SMART SEVILLA
-
+#APLICACIÓN SMART SEVILLA
 Para poder ejecutar la aplicacion (Proyecto de Eclipse) puede seguir los siguientes pasos:
 
 - Descargar el código del proyecto (carpeta WebSemantica_SmartSevilla)
@@ -11,7 +10,7 @@ Para poder ejecutar la aplicacion (Proyecto de Eclipse) puede seguir los siguien
 En este momento ya debería tener el proyecto sin fallos ni referencias sin resolver en su workspace de Eclipse.
 Ejecute el archivo Launch.java en el paquete application.
 
-##IMPORTANTE
+#IMPORTANTE
 
 Debe disponer de la version 8 de Java que contiene las librerias graficas JavaFX.
 En caso de no disponer de ella, descárguesela o importe usted mismo dichas librerías.
