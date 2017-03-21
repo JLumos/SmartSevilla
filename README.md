@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Origen del Proyecto
 
-You can use the [editor on GitHub](https://github.com/JLumos/SmartSevilla/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+SmartSevilla se crea en el contexto de la asignatura "Web Semantica y Linked Data" de la Universidad Politecnica de Madrid, en la cual había que crear una aplicación que utilizase datos enlazados como fuente principal de información y se sirivera de ellos para dar algún valor al usuario.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JLumos/SmartSevilla/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+En este caso, la aplicación muestra información sobre lugares de interés e históricos de la ciudad de Sevilla, así como sus monumentos.
